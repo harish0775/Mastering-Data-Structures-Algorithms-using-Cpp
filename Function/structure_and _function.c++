@@ -24,7 +24,7 @@ int main(){
    int p =peri(r);
 
     // int area = length*breath;  //
-    // int peri = 2*(length+breath);
+    // int perimeter = 2*(length+breath);
 
     printf("area = %d\nPerimeter = %d\n",a,p);
 
