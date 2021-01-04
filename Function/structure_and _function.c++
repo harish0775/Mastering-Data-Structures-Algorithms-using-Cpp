@@ -18,7 +18,7 @@ struct Rectangle
 int main(){
     Rectangle r = {0,0};
 
-    printf("Enter Length and Breath");
+    printf("Enter Length and Breath of rectangle");
     cin>>r.length>>r.breath;
    int a = area(r);
    int p =peri(r);
