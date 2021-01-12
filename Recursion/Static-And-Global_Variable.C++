@@ -22,7 +22,7 @@
 
 
 
-    //                               Global Variabels in Recursion
+    //                               Global Variabels in Recursion 
     // #include <stdio.h>
     // int x=0;
     // int fun(int n)
