@@ -7,7 +7,7 @@ void swap(int &x,int &y)
     x = y;
     y = temp;
 }
-      /// passing by reference 
+      /// passing by reference
 int main(){
     int num1 = 10;
     int num2 = 20;
