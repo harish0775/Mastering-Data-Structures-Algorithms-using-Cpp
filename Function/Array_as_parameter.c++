@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std; 
-
+ 
 
 void fun(int arr[] ) // function Arr
 {   
