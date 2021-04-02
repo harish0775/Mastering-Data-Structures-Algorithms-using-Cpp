@@ -3,7 +3,7 @@
 using namespace std; 
  
 
-void fun(int arr[] ) // function Arr
+void fun(int arr[] ) // function Arr 
 {   
      for(int i =0;i<5;i++)
      cout << arr[i] << endl;
