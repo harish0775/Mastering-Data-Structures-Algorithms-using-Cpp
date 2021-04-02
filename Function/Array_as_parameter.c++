@@ -13,7 +13,7 @@ int main(){
     int arr[] = {2,4,7,9,8};
     
     int n = 5;
-   // int x;
+   // int x; 
     fun(arr);
    cout<<sizeof(arr)/sizeof(int)<<endl;
     for(int x:arr)
