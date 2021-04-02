@@ -17,6 +17,6 @@ int main(){
     fun(arr);
    cout<<sizeof(arr)/sizeof(int)<<endl;
     for(int x:arr)
-    cout<< x << " "<<endl;
+    cout<< x << " "<<endl; 
     return 0;
 }
