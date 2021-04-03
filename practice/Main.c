@@ -25,7 +25,7 @@ void  Insertion(int A[],int n){
 
 }
 }
- //add file
+ //add main file
  int main()
                 {
                 int A[]={11,13,7,12,16,9,24,5,10,3},n=10,i;
