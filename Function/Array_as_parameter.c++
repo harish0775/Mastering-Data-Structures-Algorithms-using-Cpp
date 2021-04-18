@@ -10,7 +10,7 @@ void fun(int arr[] ) // function Arr
     
 } 
 int main(){   
-    int arr[] = {2,4,7,9,8}; 
+    int arr[] = {2,4,7,9,8};  
     
     int n = 5;
    // int x; 
