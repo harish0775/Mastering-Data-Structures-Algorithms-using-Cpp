@@ -9,7 +9,7 @@
             }
                 return 0;
             }
-                int main() {
+                int main() {. 
                 int r;
                 r=fun(5);  
                     printf("%d\n",r);
