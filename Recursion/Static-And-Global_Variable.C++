@@ -1,6 +1,6 @@
             #include <stdio.h>
                int fun(int n) 
-            {
+            { 
                 static int x=0;
                if(n>0)
             {
